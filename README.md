@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+I am Wandi Ndlazi - a fourth-year student at Seattle Pacific University studying Accounting and Data Analytics.
+My goal is to become a Chartered Accountant, and I am committed to achieving this through hard work and continuous learning. With a keen interest in data analytics, I am excited to explore the intersection of accounting and technology to drive informed decision-making and create value for organizations.
 
 <!--
 **wxndin22/wxndin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
